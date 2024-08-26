@@ -3,13 +3,13 @@
 $ffmpeg = '/usr/bin/ffmpeg';
 
 // Sumber video RTSP 1
-$videoSource1 = 'http://stream.cctv.malangkota.go.id/WebRTCApp/streams/012071430581878807503129.m3u8'; // Tugu Malang
+$videoSource1 = 'http://stream.cctv.malangkota.go.id/12071430581878807503129.m3u8'; // Ganti dengan URL RTSP video pertama Anda
 
 // Sumber video RTSP 2
-$videoSource2 = 'http://stream.cctv.malangkota.go.id/WebRTCApp/streams/621626709539809832237018.m3u8'; // Ganti dengan URL RTSP video kedua Anda
+$videoSource2 = 'http://stream.cctv.malangkota.go.id/621626709539809832237018.m3u8'; // Ganti dengan URL RTSP video kedua Anda
 
 // Sumber audio MP3
-$audioSource = '/root/doraemon.mp3'; // Ganti dengan nama file audio Anda
+$audioSource = '/opt/mp3/doraemon.mp3'; // Ganti dengan nama file audio Anda
 
 // Watermark teks
 $watermarkText = "Restreaming by : iptvpanel.classy.id"; // Teks watermark yang ingin Anda gunakan
