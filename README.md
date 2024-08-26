@@ -25,5 +25,5 @@ This repository contains a PHP script that utilizes FFmpeg to combine two RTSP v
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/iptvpanel/restreaming.git
+   git clone https://github.com/iptvpanel24/restreaming.git
    cd restreaming
